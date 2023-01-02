@@ -1,0 +1,13 @@
+/*
+/*/
+!/.gitignore
+!/Analysis/
+!/Core/
+!/Docs/
+!/Drivers/
+!/Middlewares/
+!Makefile
+!Doxyfile
+!STM32F407VGTx_FLASH.ld
+!startup_stm32f407xx.s
+!README.md
